@@ -1,0 +1,14 @@
+elasticsearch måste köra på 9200, annars hittar inte kibana tjänsten.
+- hittar ändå inte.
+- nu gicke det -> http://localhost:5601/app/kibana
+
+
+se rubrik 'Running in production mode'
+https://hub.docker.com/_/elasticsearch/
+- license.
+
+
+exempel:
+https://github.com/elastic/stack-docker/blob/master/docker-compose.yml
+
+
